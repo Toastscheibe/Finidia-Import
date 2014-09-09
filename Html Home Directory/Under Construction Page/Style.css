@@ -1,0 +1,50 @@
+body {
+	background-color: black;
+	font-family: 'Playfair Display SC', serif; color:#b5b6b7; 
+	font-size: 20px;
+ }
+
+#container{
+border= 1px solid black;
+height: auto;
+width: 800px;
+
+}
+
+#wraper{
+	border= 1 px solid black;
+	width= 800px;
+	height= auto;
+}
+
+
+#Logo{
+border= 1px solid black;
+  left: 50%;
+  margin-left: 250px;
+  margin-top: 50px;
+  
+  
+}
+
+.img{
+margin-left:100px;
+margin-top: 20px;
+float:left;
+
+}
+
+.img span{
+position: absolut;
+
+}
+
+.clear {
+clear: both;
+}
+
+#text{
+width: 100%;
+padding: 50px;
+text-align: center;
+}
